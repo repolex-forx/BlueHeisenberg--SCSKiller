@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/BlueHeisenberg/SCSKiller/commit/a996cfe737bff9ece0e8117c463339c3b9fbdac4",
       "git:hexsha": "a996cfe737bff9ece0e8117c463339c3b9fbdac4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.4.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.4.7",
+      "repolex:parsedAt": "2026-11-10T02:16:19.125689+00:00"
     },
     {
       "@id": "https://repolex.ai/r/BlueHeisenberg/SCSKiller/commit/1116ecfc6f5b8d8372bd8c75252405432512374a",
